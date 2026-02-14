@@ -1,0 +1,1 @@
+mkdir -p docs/{threat-models,protocols,lab-guides} px4-security ardupilot-security tools simulations
