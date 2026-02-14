@@ -1,0 +1,7 @@
+mkdir -p drone-hacking/docs/threat-models
+mkdir -p drone-hacking/docs/protocols
+mkdir -p drone-hacking/docs/lab-guides
+mkdir -p drone-hacking/px4-security
+mkdir -p drone-hacking/ardupilot-security
+mkdir -p drone-hacking/tools
+mkdir -p drone-hacking/simulations
