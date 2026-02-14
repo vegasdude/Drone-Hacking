@@ -1,0 +1,32 @@
+---
+
+## 🧪 Example Scenario Template
+
+Each scenario folder should contain:
+
+- description of the test
+- what is being observed or measured
+- how to reproduce it
+- expected outcome
+
+---
+
+## 🔐 Safety & Legal Use
+
+This lab is for:
+- systems you own
+- systems you have explicit permission to test
+- simulated environments only
+
+Do not use this lab to interfere with real aircraft or real airspace.
+
+---
+
+## 📌 Next Steps
+
+1. Create your first SITL scenario folder
+2. Add startup scripts
+3. Capture baseline logs
+4. Connect detection rules and policies from the main repository
+
+This lab folder is the foundation for all defensive research in this project.
