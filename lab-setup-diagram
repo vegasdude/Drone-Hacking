@@ -1,0 +1,12 @@
+---
+
+## 🔁 Reproducibility Rules
+
+Every lab setup must include:
+
+- exact software versions
+- startup commands
+- environment variables
+- network assumptions
+
+Each setup should have its own README file inside:
