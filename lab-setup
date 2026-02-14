@@ -1,0 +1,27 @@
+---
+
+## 🖥️ Minimum Lab Components
+
+### Host system
+- Linux (recommended)
+- Docker or container runtime (optional)
+- Python 3
+- Wireshark / tcpdump (for network analysis)
+
+### Simulation & tooling
+- Flight stack SITL
+- MAVLink tooling
+- Log analysis tools
+
+---
+
+## 🌐 Network Layout
+
+Document your lab network here:
+
+- simulator host IP
+- GCS host
+- telemetry endpoints
+- ports in use
+
+Store diagrams and notes under:
